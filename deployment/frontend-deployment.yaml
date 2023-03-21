@@ -16,7 +16,7 @@ spec:
         api: external        
     spec:
       containers:
-      - image: flisz/udagram-frontend:v7
+      - image: flisz/udagram-frontend:v9
         name: frontend
         imagePullPolicy: Always          
         ports:
