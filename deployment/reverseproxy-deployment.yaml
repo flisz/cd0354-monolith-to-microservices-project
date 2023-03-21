@@ -15,7 +15,7 @@ spec:
         service: reverseproxy
     spec:
       containers:
-      - image: flisz/reverseproxy:v1
+      - image: flisz/reverseproxy:v2
         name: reverseproxy
         imagePullPolicy: Always          
         resources:
