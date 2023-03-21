@@ -6,7 +6,7 @@ data:
   AWS_REGION: us-east-2
   JWT_SECRET: jwtforfunyay
   POSTGRES_DB: postgres
-  POSTGRES_HOST: database-1.cak0rlstd75s.us-east-2.rds.amazonaws.com
+  POSTGRES_HOST: database-1.cz6p1zyasu02.us-east-1.rds.amazonaws.com
   URL: http://a065ab171578e422c8e7d0499b7663d3-634898811.us-east-2.elb.amazonaws.com:8100
 metadata:
   name: env-config
